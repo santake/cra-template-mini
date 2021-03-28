@@ -4,20 +4,23 @@
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "minimal",
+    "minimum",
+    "mini"
   ],
   "description": "The minimal template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/santake/cra-template-mini.git",
+    "directory": "template/"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/santake/cra-template-mini/issues"
   },
   "files": [
     "template",
